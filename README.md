@@ -1,7 +1,7 @@
-### Hi 👋 Abhishek Singh 
+---->Hi 👋 Abhishek Singh<----
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started
 
 - 🔭 I’m currently Student in Prepbyte
 - 🌱 I’m currently learning Website Development
