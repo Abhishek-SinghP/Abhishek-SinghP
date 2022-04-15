@@ -1,7 +1,8 @@
 ---->Hi  I'm 👋 Abhishek Singh<----
 
+          A Boy Trying to Figure-out Latest Tech Stuffs !!
 
-Here are some ideas to get you started
+A passionate Frontend developer from  Kolkata ,India
 
 - 🔭 I’m currently Student in Prepbyte
 - 🌱 I’m currently learning Website Development
