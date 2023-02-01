@@ -2,7 +2,7 @@
 
           A Boy Trying to Figure-out Latest Tech Stuffs !!
 
-A passionate Fullstack Developer from  Kolkata , India .
+A passionate  MERN stack Developer from  Kolkata , India .
 
 - 🔭 I’m currently Working  in Speedum technologies
 <!-- -  -->
